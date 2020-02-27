@@ -1,6 +1,6 @@
 using System;
 
-namespace IntroToSignalR.Models
+namespace IntroToSignalR.Web.Models
 {
     public class ErrorViewModel
     {

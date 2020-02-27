@@ -3,7 +3,7 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 16
 VisualStudioVersion = 16.0.29613.14
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "IntroToSignalR", "IntroToSignalR\IntroToSignalR.csproj", "{12E4B340-DD40-4159-BEED-9429B9F2DF96}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "IntroToSignalR.Web", "IntroToSignalR.Web\IntroToSignalR.Web.csproj", "{F18E2697-4151-4F52-A522-DF288E77769B}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -11,15 +11,15 @@ Global
 		Release|Any CPU = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(ProjectConfigurationPlatforms) = postSolution
-		{12E4B340-DD40-4159-BEED-9429B9F2DF96}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{12E4B340-DD40-4159-BEED-9429B9F2DF96}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{12E4B340-DD40-4159-BEED-9429B9F2DF96}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{12E4B340-DD40-4159-BEED-9429B9F2DF96}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F18E2697-4151-4F52-A522-DF288E77769B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F18E2697-4151-4F52-A522-DF288E77769B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F18E2697-4151-4F52-A522-DF288E77769B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F18E2697-4151-4F52-A522-DF288E77769B}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
-		SolutionGuid = {70B5B213-784F-4506-8E3F-20F7BDAFADAC}
+		SolutionGuid = {C4A5D804-831F-49A5-89BA-470F60E036F9}
 	EndGlobalSection
 EndGlobal
